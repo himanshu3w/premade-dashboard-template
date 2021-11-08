@@ -6,7 +6,7 @@ const Edit = () => {
   return (
     <>
       <CCard className="mb-4">
-        <div className="card-header text-center">Coming Soon</div>
+        <div className="card-header text-center">Coming Soon [ Profile -&gt; Edit Page]</div>
       </CCard>
     </>
   )

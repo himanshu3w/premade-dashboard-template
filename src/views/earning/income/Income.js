@@ -6,7 +6,7 @@ const Income = () => {
   return (
     <>
       <CCard className="mb-4">
-        <div className="card-header text-center">Coming Soon</div>
+        <div className="card-header text-center">Coming Soon [Earning -&gt;Income]</div>
       </CCard>
     </>
   )

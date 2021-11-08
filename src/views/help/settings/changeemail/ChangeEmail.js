@@ -6,7 +6,7 @@ const ChangeEmail = () => {
   return (
     <>
       <CCard className="mb-4">
-        <div className="card-header text-center">Coming Soon</div>
+        <div className="card-header text-center">Coming Soon [Settings -&gt; Change Email]</div>
       </CCard>
     </>
   )

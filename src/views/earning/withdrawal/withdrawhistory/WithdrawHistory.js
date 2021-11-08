@@ -6,7 +6,9 @@ const WithdrawHistory = () => {
   return (
     <>
       <CCard className="mb-4">
-        <div className="card-header text-center">Coming Soon</div>
+        <div className="card-header text-center">
+          Coming Soon [ Earning -&gt; Withdrawal -&gt; Withdraw History ]
+        </div>
       </CCard>
     </>
   )

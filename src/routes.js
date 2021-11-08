@@ -50,7 +50,7 @@ const routes = [
     component: WithdrawHistory,
   },
   { path: '/team', name: 'Team', component: Team },
-  { path: '/help', name: 'Help', component: News },
+  { path: '/help', name: 'Help', component: News, exact: true },
   { path: '/help/news', name: 'News', component: News },
   { path: '/help/support', name: 'Support', component: Support },
   {

@@ -78,7 +78,7 @@ const _nav = [
   },
   {
     component: CNavGroup,
-    name: 'Withdraw',
+    name: 'Withdrawal',
     icon: <CIcon icon={cilStar} customClassName="nav-icon" />,
     items: [
       {

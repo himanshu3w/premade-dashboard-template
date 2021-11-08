@@ -6,7 +6,7 @@ const Support = () => {
   return (
     <>
       <CCard className="mb-4">
-        <div className="card-header text-center">Coming Soon</div>
+        <div className="card-header text-center">Coming Soon [Help -&gt; Support]</div>
       </CCard>
     </>
   )
